@@ -1,7 +1,7 @@
 # visicalc
-scientific calcuator
+### scientific calcuator
 
-#Features
+## Features
 
 Sine
 
