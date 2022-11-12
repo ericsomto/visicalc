@@ -1,8 +1,16 @@
 # visicalc
-### scientific calcuator
+This is a scientific calcuator program
 
 ## Features
 
-Sine
-
-Cosine
+   Sine
+   
+  Cosine
+ 
+ Square
+ 
+  Tan
+  
+  Log
+  
+  Power
