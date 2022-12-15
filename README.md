@@ -6,7 +6,8 @@ A simple command-line scientific calculator written in C.
 
 To install the calculator, clone the repository and compile the program using the gcc compiler
 > git clone https://github.com/erictheplague/visicalc
-  gcc -o calculator calculator.c
+
+> gcc -o visicalc.c
 
 ## Usage
 
